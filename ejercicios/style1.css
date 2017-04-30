@@ -1,0 +1,34 @@
+body{
+    font-size: 15px;
+    font-family: "Century Gothic";
+}
+
+img{
+    width: 370px;
+    height: 305px;
+}
+
+.container{
+    width: 950px;
+    margin: 180px auto;
+}
+
+.title{
+    font-size: 4em;
+    padding: 40px 0px 0px 20px;
+    color: #ffffff;
+    margin-bottom: 45px;
+    background-color: #33BEBE;
+}
+
+.containt{
+    display: flex;
+
+}
+
+.description{
+    font-size: 1.7em;
+    margin-left: 50px;
+    color: #7C8B88;
+    transform: scalex(1.1);
+}

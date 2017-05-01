@@ -1,0 +1,103 @@
+body{
+    font-size: 12px;
+    font-family: "Arial";
+    margin: 0px;
+}
+img {
+    width: 1350px;
+    height: 530px;
+}
+
+#logo{
+    width: 100px;
+    height: 100px;
+
+
+}
+
+.container{
+    width: 1348px;
+}
+
+.head{
+    display: flex;
+    height: 180px;
+    padding-bottom: 10px;
+    border: 6px;
+    border-color: #D0C4AB;
+    border-bottom-style: solid;
+    margin-bottom: 20px;
+}
+
+.logo{
+    border:33px;
+    border-style: solid;
+    border-color: #D5245B;
+    background-color: #D5245B;
+    border-radius: 50%;
+    margin:10px 15px;
+    padding-left: 4px;
+}
+
+.containt{
+    margin-left: 600px;
+}
+
+#title{
+    font-family: "Arial Black";
+    font-size: 5.8em;
+    color: #131A2D;
+    padding-top: 10px;
+}
+
+#subtitle{
+    font-size: 2.3em;
+    padding-left: 290px;
+    color: #131A2D;
+}
+.imagen{
+    padding-top: 30px;
+}
+
+.container1{
+    background-color: #131A2D;
+}
+.container2{
+    padding:60px 35px 35px 35px;
+}
+
+#title2{
+    color: #D0C4AB;
+    font-size: 4em;
+    padding-left: 15px;
+    font-family: "Century Gothic";
+}
+
+.containt1{
+    padding-top: 25px;
+    display: flex;
+}
+
+.section{
+    padding-right: 30px;
+}
+
+.square{
+    background-color: #D0C4AB;
+    padding: 140px 311px;
+    margin-bottom: 10px;
+}
+
+.text{
+    font-size:5em;
+    color: #D0C4AB;
+    text-align: center;
+    font-family: "Century Gothic";
+}
+
+.text1{
+    font-size: 1.6em;
+    color: #D0C4AB;
+    text-align: center;
+    font-family: "Century Gothic";
+}
